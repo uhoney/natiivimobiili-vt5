@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">natiivimobiili-vt5</string>
+    <string name="calories">Calories</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>

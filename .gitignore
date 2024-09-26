@@ -1,0 +1,22 @@
+# Ignore all .iml files
+**/*.iml
+
+# Ignore the .gradle folder
+**/.gradle/
+
+# Ignore local.properties
+**/local.properties
+
+# Ignore the entire .idea folder
+**/.idea/
+
+# Ignore macOS specific file
+**/.DS_Store
+
+# Ignore build output folders
+**/build/
+**/captures/
+
+# Ignore external native build and C++ build files
+**/.externalNativeBuild/
+**/.cxx/
